@@ -1,0 +1,5 @@
+put\ai\games\kassle\KassleBoard.class
+put\ai\games\kassle\KassleBoardFactory.class
+put\ai\games\kassle\KassleDropMove.class
+put\ai\games\kassle\KassleShiftMove.class
+put\ai\games\kassle\KassleBoard$1.class
